@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">kintetsu</string>
+
+
+    <!--MainActivity-->
+    <string name="scan_code">スキャン</string>
+    <string name="print_detail">手形を印刷する</string>
+
+    <!--ErrorCode-->
+    <string name="error_code_01">認証コードフォーマットが不正です。</string>
+    <string name="error_code_02">システムが忙しいので、あとで試してください。</string>
+
+</resources>

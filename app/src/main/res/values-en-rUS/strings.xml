@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">kintetsu</string>
+
+
+    <!--MainActivity-->
+    <string name="scan_code">Scanning</string>
+    <string name="print_detail">Print bill</string>
+
+
+    <!--ErrorCode-->
+    <string name="error_code_01">Verification code format incorrect.</string>
+    <string name="error_code_02">The system is busy. Please try again later.</string>
+
+
+</resources>
